@@ -15,8 +15,8 @@ git --help
 
 ## Самые часто используемы команды Git по убыванию
 
-'''bash
-git add .
+* '''bash
+git add --all
 '''
 
 
